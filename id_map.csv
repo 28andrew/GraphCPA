@@ -1,0 +1,256 @@
+id,cell_type,sm_name
+0,B cells,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+1,B cells,ABT-199 (GDC-0199)
+2,B cells,ABT737
+3,B cells,AMD-070 (hydrochloride)
+4,B cells,AT 7867
+5,B cells,AT13387
+6,B cells,AVL-292
+7,B cells,AZ628
+8,B cells,AZD-8330
+9,B cells,AZD3514
+10,B cells,AZD4547
+11,B cells,Alogliptin
+12,B cells,Amiodarone
+13,B cells,Atorvastatin
+14,B cells,Azacitidine
+15,B cells,BAY 61-3606
+16,B cells,BAY 87-2243
+17,B cells,BI-D1870
+18,B cells,BMS-265246
+19,B cells,BMS-387032
+20,B cells,BMS-536924
+21,B cells,BMS-777607
+22,B cells,BX 912
+23,B cells,Bosutinib
+24,B cells,Buspirone
+25,B cells,CC-401
+26,B cells,CEP-37440
+27,B cells,CGM-097
+28,B cells,CGP 60474
+29,B cells,Cabozantinib
+30,B cells,Canertinib
+31,B cells,Ceritinib
+32,B cells,Chlorpheniramine
+33,B cells,Clemastine
+34,B cells,Clomipramine
+35,B cells,Clotrimazole
+36,B cells,Colchicine
+37,B cells,Colforsin
+38,B cells,Dasatinib
+39,B cells,Decitabine
+40,B cells,Defactinib
+41,B cells,Desloratadine
+42,B cells,Disulfiram
+43,B cells,Dovitinib
+44,B cells,Doxorubicin
+45,B cells,FK 866
+46,B cells,Flutamide
+47,B cells,GLPG0634
+48,B cells,GO-6976
+49,B cells,GSK-1070916
+50,B cells,GSK256066
+51,B cells,GW843682X
+52,B cells,Ganetespib (STA-9090)
+53,B cells,HMN-214
+54,B cells,HYDROXYUREA
+55,B cells,I-BET151
+56,B cells,IKK Inhibitor VII
+57,B cells,IMD-0354
+58,B cells,IN1451
+59,B cells,Imatinib
+60,B cells,Isoniazid
+61,B cells,Ixabepilone
+62,B cells,K-02288
+63,B cells,Ketoconazole
+64,B cells,LY2090314
+65,B cells,Lamivudine
+66,B cells,Lapatinib
+67,B cells,MGCD-265
+68,B cells,MK-5108
+69,B cells,Masitinib
+70,B cells,Methotrexate
+71,B cells,Midostaurin
+72,B cells,Mometasone Furoate
+73,B cells,Mubritinib (TAK 165)
+74,B cells,Navitoclax
+75,B cells,Nefazodone
+76,B cells,Nilotinib
+77,B cells,OSI-930
+78,B cells,Oxybenzone
+79,B cells,PD-0325901
+80,B cells,PF-03814735
+81,B cells,PF-04691502
+82,B cells,PRT-062607
+83,B cells,Perhexiline
+84,B cells,Phenylbutazone
+85,B cells,Pitavastatin Calcium
+86,B cells,Pomalidomide
+87,B cells,Prednisolone
+88,B cells,Proscillaridin A;Proscillaridin-A
+89,B cells,Protriptyline
+90,B cells,Quizartinib
+91,B cells,RG7090
+92,B cells,RG7112
+93,B cells,RN-486
+94,B cells,RVX-208
+95,B cells,Raloxifene
+96,B cells,Resminostat
+97,B cells,Ricolinostat
+98,B cells,Riociguat
+99,B cells,Ruxolitinib
+100,B cells,SB525334
+101,B cells,SCH-58261
+102,B cells,SLx-2119
+103,B cells,STK219801
+104,B cells,Saracatinib
+105,B cells,Scriptaid
+106,B cells,Selumetinib
+107,B cells,Sgc-cbp30
+108,B cells,Sunitinib
+109,B cells,TGX 221
+110,B cells,TIE2 Kinase Inhibitor
+111,B cells,TL_HRAS26
+112,B cells,TPCA-1
+113,B cells,TR-14035
+114,B cells,Tacalcitol
+115,B cells,Tamatinib
+116,B cells,Tipifarnib
+117,B cells,Tivantinib
+118,B cells,Tivozanib
+119,B cells,Topotecan
+120,B cells,Tosedostat
+121,B cells,Trametinib
+122,B cells,UNII-BXU45ZH6LI
+123,B cells,Vandetanib
+124,B cells,Vanoxerine
+125,B cells,Vardenafil
+126,B cells,Vorinostat
+127,B cells,YK 4-279
+128,Myeloid cells,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+129,Myeloid cells,ABT-199 (GDC-0199)
+130,Myeloid cells,ABT737
+131,Myeloid cells,AMD-070 (hydrochloride)
+132,Myeloid cells,AT 7867
+133,Myeloid cells,AT13387
+134,Myeloid cells,AVL-292
+135,Myeloid cells,AZ628
+136,Myeloid cells,AZD-8330
+137,Myeloid cells,AZD3514
+138,Myeloid cells,AZD4547
+139,Myeloid cells,Alogliptin
+140,Myeloid cells,Amiodarone
+141,Myeloid cells,Atorvastatin
+142,Myeloid cells,Azacitidine
+143,Myeloid cells,BAY 61-3606
+144,Myeloid cells,BAY 87-2243
+145,Myeloid cells,BI-D1870
+146,Myeloid cells,BMS-265246
+147,Myeloid cells,BMS-536924
+148,Myeloid cells,BMS-777607
+149,Myeloid cells,BX 912
+150,Myeloid cells,Bosutinib
+151,Myeloid cells,Buspirone
+152,Myeloid cells,CC-401
+153,Myeloid cells,CEP-18770 (Delanzomib)
+154,Myeloid cells,CEP-37440
+155,Myeloid cells,CGM-097
+156,Myeloid cells,Cabozantinib
+157,Myeloid cells,Canertinib
+158,Myeloid cells,Ceritinib
+159,Myeloid cells,Chlorpheniramine
+160,Myeloid cells,Clemastine
+161,Myeloid cells,Clomipramine
+162,Myeloid cells,Clotrimazole
+163,Myeloid cells,Colchicine
+164,Myeloid cells,Colforsin
+165,Myeloid cells,Dasatinib
+166,Myeloid cells,Decitabine
+167,Myeloid cells,Defactinib
+168,Myeloid cells,Desloratadine
+169,Myeloid cells,Disulfiram
+170,Myeloid cells,Dovitinib
+171,Myeloid cells,Doxorubicin
+172,Myeloid cells,FK 866
+173,Myeloid cells,Flutamide
+174,Myeloid cells,GLPG0634
+175,Myeloid cells,GO-6976
+176,Myeloid cells,GSK-1070916
+177,Myeloid cells,GSK256066
+178,Myeloid cells,GW843682X
+179,Myeloid cells,Ganetespib (STA-9090)
+180,Myeloid cells,HMN-214
+181,Myeloid cells,HYDROXYUREA
+182,Myeloid cells,I-BET151
+183,Myeloid cells,IKK Inhibitor VII
+184,Myeloid cells,IMD-0354
+185,Myeloid cells,IN1451
+186,Myeloid cells,Imatinib
+187,Myeloid cells,Isoniazid
+188,Myeloid cells,Ixabepilone
+189,Myeloid cells,K-02288
+190,Myeloid cells,Ketoconazole
+191,Myeloid cells,LY2090314
+192,Myeloid cells,Lamivudine
+193,Myeloid cells,Lapatinib
+194,Myeloid cells,MGCD-265
+195,Myeloid cells,MK-5108
+196,Myeloid cells,Masitinib
+197,Myeloid cells,Methotrexate
+198,Myeloid cells,Midostaurin
+199,Myeloid cells,Mometasone Furoate
+200,Myeloid cells,Mubritinib (TAK 165)
+201,Myeloid cells,Navitoclax
+202,Myeloid cells,Nefazodone
+203,Myeloid cells,Nilotinib
+204,Myeloid cells,OSI-930
+205,Myeloid cells,Oxybenzone
+206,Myeloid cells,PD-0325901
+207,Myeloid cells,PF-03814735
+208,Myeloid cells,PF-04691502
+209,Myeloid cells,PRT-062607
+210,Myeloid cells,Perhexiline
+211,Myeloid cells,Phenylbutazone
+212,Myeloid cells,Pitavastatin Calcium
+213,Myeloid cells,Pomalidomide
+214,Myeloid cells,Prednisolone
+215,Myeloid cells,Proscillaridin A;Proscillaridin-A
+216,Myeloid cells,Protriptyline
+217,Myeloid cells,Quizartinib
+218,Myeloid cells,RG7090
+219,Myeloid cells,RG7112
+220,Myeloid cells,RN-486
+221,Myeloid cells,RVX-208
+222,Myeloid cells,Raloxifene
+223,Myeloid cells,Resminostat
+224,Myeloid cells,Ricolinostat
+225,Myeloid cells,Riociguat
+226,Myeloid cells,Ruxolitinib
+227,Myeloid cells,SB525334
+228,Myeloid cells,SCH-58261
+229,Myeloid cells,SLx-2119
+230,Myeloid cells,STK219801
+231,Myeloid cells,Saracatinib
+232,Myeloid cells,Scriptaid
+233,Myeloid cells,Selumetinib
+234,Myeloid cells,Sgc-cbp30
+235,Myeloid cells,Sunitinib
+236,Myeloid cells,TGX 221
+237,Myeloid cells,TIE2 Kinase Inhibitor
+238,Myeloid cells,TL_HRAS26
+239,Myeloid cells,TPCA-1
+240,Myeloid cells,TR-14035
+241,Myeloid cells,Tacalcitol
+242,Myeloid cells,Tamatinib
+243,Myeloid cells,Tipifarnib
+244,Myeloid cells,Tivantinib
+245,Myeloid cells,Tivozanib
+246,Myeloid cells,Topotecan
+247,Myeloid cells,Tosedostat
+248,Myeloid cells,Trametinib
+249,Myeloid cells,UNII-BXU45ZH6LI
+250,Myeloid cells,Vandetanib
+251,Myeloid cells,Vanoxerine
+252,Myeloid cells,Vardenafil
+253,Myeloid cells,Vorinostat
+254,Myeloid cells,YK 4-279

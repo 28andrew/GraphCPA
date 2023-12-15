@@ -1,0 +1,5 @@
+inference*.csv
+**/checkpoints
+**/checkpoints-*
+**/results/
+**/results-*
